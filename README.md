@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlexVishwa
-- 👀 I’m interested in React Js, Pyqt
-- 🌱 I’m currently learning React, Angular, Chemistry
-- 💞️ I’m looking to collaborate on Developer Weekends and VIOM 
-- 📫 How to reach me ...
+- 👀 I’m interested in React Js,Qt
+- 🌱 I’m currently learning Nothing
+- 💞️ I’m looking to collaborate on Developer Weekends and VIOM Solar Project
+- 📫 How to reach me Find @alexvishwa on Linkedin
 
 <!---
 AlexVishwa/AlexVishwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
