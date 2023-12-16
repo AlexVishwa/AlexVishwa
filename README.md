@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexVishwa
 - 👀 I’m interested in React Js,Qt
-- 🌱 I’m currently learning Nothing
-- 💞️ I’m looking to collaborate on Developer Weekends and VIOM Solar Project
+- 🌱 I’m currently learning React+Node
+- 💞️ I’m working alone
 - 📫 How to reach me Find @alexvishwa on Linkedin
 
 <!---
