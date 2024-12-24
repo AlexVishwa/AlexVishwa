@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexVishwa
-- 👀 I’m interested in React Js,Qt
-- 🌱 I’m currently learning React+Node
-- 💞️ I’m working alone
+- 👀 I’m interested in Web Developmen
+- 🌱 I’m currently learning Svelte
+- 💞️ I’m working with my friends 
 - 📫 How to reach me Find @alexvishwa on Linkedin
 
 <!---
