@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AlexVishwa
-- 👀 I’m interested in Web Developmen
-- 🌱 I’m currently learning Svelte
-- 💞️ I’m working with my friends 
+- 👀 I’m interested in Embedded Development
+- 🌱 I’m currently learning Python/Mysql
+- 💞️ I’m working with my students
 - 📫 How to reach me Find @alexvishwa on Linkedin
 
 <!---
